@@ -9,11 +9,11 @@
 * File I/O
 
 ## Main takeaways from doing today's assignment
-<To be filled>
+<Some concepts needed to be rejogged in my memory, but overall, I am comfortable with the basics of python>
 
 ## Challenging, interesting, or exciting aspects of today's assignment
-<To be filled>
+<The most exciting aspect was having old concepts reintroduced and being able to have a-ha moments when I finally remembered and applied concepts I learned before to solve the questions.>
 
 ## Additional resources used 
-<To be filled>
+<W3 schools>
 
